@@ -24,8 +24,18 @@ You can clone this repository or download specific resources to deepen your unde
 If you wish to contribute, please read the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For any inquiries or feedback, please feel free to contact [Omar Santos](https://www.linkedin.com/in/santosomar/).
+
+
+## Directory Overview
+Below is a quick reference to major sections in this repository. Each folder contains documentation or tools related to the topic indicated by its name.
+
+- **Offensive Security**: [exploit_development](exploit_development/), [post_exploitation](post_exploitation/), [metasploit_resources](metasploit_resources/), [more_payloads](more_payloads/)
+- **Defensive Security**: [threat_hunting](threat_hunting/), [threat_intelligence](threat_intelligence/), [dfir](dfir/), [sbom](sbom/)
+- **Cloud Security**: [docker-and-k8s-security](docker-and-k8s-security/), [cloud_resources](cloud_resources/)
+- **Hardware & IoT**: [iot_hacking](iot_hacking/), [car_hacking](car_hacking/), [game_hacking](game_hacking/)
+- **Training Materials**: [certifications](certifications/), [cheat_sheets](cheat_sheets/), [who-and-what-to-follow](who-and-what-to-follow/)
 
